@@ -86,19 +86,19 @@ Software engineer. I build things, break things, and read about why both matter.
 ### `Layer 05 — most popular` · what hit hardest
 
 <!-- POPULAR-REPOS:START -->
-- [kindle-screensaver-converter-gui](https://github.com/neura-neura/kindle-screensaver-converter-gui) — 39 stars · Python · GUI for converting images into Kindle screensavers
-- [Check-OTA-status](https://github.com/neura-neura/Check-OTA-status) — 36 stars · Shell · Checks the status of OTA update binaries on Kindle
-- [kindle-screensaver-converter](https://github.com/neura-neura/kindle-screensaver-converter) — 17 stars · Python · Converts images into screensavers compatible with Kindle devices
-- [tagtag](https://github.com/neura-neura/tagtag) — 8 stars · Kotlin · Android music tag editor for local audio files
+- [kindle-screensaver-converter-gui] (https://github.com/neura-neura/kindle-screensaver-converter-gui) — 39 stars · Python · This project provides a graphical user interface (GUI) for converting images into Kindle-compatible screensavers, simplifying the process by leveraging the core functionality of the original Kindle Screensaver Converter script made by me.
+- [Check-OTA-status] (https://github.com/neura-neura/Check-OTA-status) — 36 stars · Shell · This scriptlet checks the status of OTA (Over-The-Air) update binaries on Kindle devices and informs the user whether updates are enabled or blocked.
+- [kindle-screensaver-converter] (https://github.com/neura-neura/kindle-screensaver-converter) — 17 stars · Python · This Python script converts images into screensavers compatible with Kindle devices (in order to replace the default ones if you know how or use them as screensavers in KOReader).
+- [tagtag] (https://github.com/neura-neura/tagtag) — 8 stars · Kotlin · Android music tag editor for local audio files
 <!-- POPULAR-REPOS:END -->
 
 ### `Layer 06 — latest` · most recent projects
 
 <!-- RECENT-REPOS:START -->
-- [utena-mic](https://github.com/neura-neura/utena-mic) — Java · Use an Android phone as a Windows microphone over your local network
-- [neura-cinema](https://github.com/neura-neura/neura-cinema) — HTML · Web interface for preparing temporary video and subtitle sessions on a server
-- [aimal-patches](https://github.com/neura-neura/aimal-patches) — Java
-- [christmas-print-studio](https://github.com/neura-neura/christmas-print-studio) — Python
+- [utena-mic] (https://github.com/neura-neura/utena-mic) · Java · Use an Android phone as a Windows microphone over your local network.
+- [neura-cinema] (https://github.com/neura-neura/neura-cinema) · HTML · Interfaz web para preparar sesiones temporales de video y subtítulos en un servidor propio
+- [christmas-print-studio] (https://github.com/neura-neura/christmas-print-studio) · Python · Touch-friendly Christmas ornament and name production planner for Bambu Lab A1, with a native macOS app.
+- [roku-app-launcher] (https://github.com/neura-neura/roku-app-launcher) · Python · A Roku development channel that loads SceneGraph apps from a LAN catalog.
 <!-- RECENT-REPOS:END -->
 
 ---
