@@ -95,9 +95,9 @@ Software engineer. I build things, break things, and read about why both matter.
 ### `Layer 06 — latest` · most recent projects
 
 <!-- RECENT-REPOS:START -->
+- [christmas-print-studio] (https://github.com/neura-neura/christmas-print-studio) · Python · Touch-friendly Christmas ornament and name production planner for Bambu Lab A1, with a native macOS app.
 - [utena-mic] (https://github.com/neura-neura/utena-mic) · Java · Use an Android phone as a Windows microphone over your local network.
 - [neura-cinema] (https://github.com/neura-neura/neura-cinema) · HTML · Interfaz web para preparar sesiones temporales de video y subtítulos en un servidor propio
-- [christmas-print-studio] (https://github.com/neura-neura/christmas-print-studio) · Python · Touch-friendly Christmas ornament and name production planner for Bambu Lab A1, with a native macOS app.
 - [roku-app-launcher] (https://github.com/neura-neura/roku-app-launcher) · Python · A Roku development channel that loads SceneGraph apps from a LAN catalog.
 <!-- RECENT-REPOS:END -->
 
